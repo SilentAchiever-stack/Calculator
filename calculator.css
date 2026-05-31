@@ -102,14 +102,14 @@ body {
     background: #e0c080;
 }
 
-.clear {
-    background: #1a0a0a;
-    color: #e05555;
+.clear { 
+    background:#1e1700 ;
+    color: #c9a96e;
     border: 1px solid rgba(224, 85, 85, 0.2);
 }
 
 .clear:hover {
-    background: rgba(224, 85, 85, 0.13);
+    background: rgba(201, 169, 110, 0.13);
 }
 
 .zero {
